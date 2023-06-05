@@ -11,3 +11,4 @@
 function foo(){
 hello world
 }
+function too(){}
